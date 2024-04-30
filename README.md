@@ -26,4 +26,4 @@ Aoife is from Cork, Ireland and is currently living and working in Dublin, Irela
 
 Having graduated from University of Limerick in 2022 with a BA in International Business Aoife is now studying a Higher Diploma in Data Analytics at Atlantic Technological University.
 
-![Aoife Flavin](<LinkedIn profile pic.png>)
+<img src="LinkedIn profile pic.png" width="100" height="100"/>
